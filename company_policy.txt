@@ -1,0 +1,24 @@
+ACME Corporation - Employee Policy Document
+
+VACATION POLICY
+- Full-time employees receive 15 days of paid vacation per year.
+- Vacation days accrue at 1.25 days per month.
+- Unused vacation days can be carried over up to a maximum of 5 days.
+- Vacation requests must be submitted at least 2 weeks in advance.
+
+REMOTE WORK POLICY
+- Employees may work remotely up to 3 days per week.
+- Remote work must be approved by the direct manager.
+- Core hours are 10am to 3pm in the employee's local timezone.
+- All remote employees must attend in-person team meetings quarterly.
+
+EXPENSE POLICY
+- Meals during business travel are reimbursed up to $75 per day.
+- Flight bookings must be economy class for trips under 6 hours.
+- All expenses over $500 require VP approval before being incurred.
+- Receipts must be submitted within 30 days of the expense.
+
+PERFORMANCE REVIEW POLICY
+- Reviews are conducted twice a year, in June and December.
+- Employees must complete a self-assessment 2 weeks before the review.
+- Salary adjustments take effect the first of the month after review.
